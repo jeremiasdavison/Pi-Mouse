@@ -1,0 +1,1 @@
+Este Archivo contiene el Driver para la placa Raspberry Pi Pico, tener en cuenta que no es lo mismo MicroPython con Circuit Python
